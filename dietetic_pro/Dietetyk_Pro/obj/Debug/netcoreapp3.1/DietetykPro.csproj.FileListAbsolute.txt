@@ -1,0 +1,181 @@
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.exe
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.deps.json
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.json
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfo.cs
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.genruntimeconfig.cache
+C:\Users\Marcin\source\repos\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.exe
+C:\Users\Marcin\source\repos\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.deps.json
+C:\Users\Marcin\source\repos\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.json
+C:\Users\Marcin\source\repos\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.dev.json
+C:\Users\Marcin\source\repos\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\Marcin\source\repos\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\Marcin\source\repos\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfoInputs.cache
+C:\Users\Marcin\source\repos\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfo.cs
+C:\Users\Marcin\source\repos\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\Marcin\source\repos\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\Marcin\source\repos\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.genruntimeconfig.cache
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.exe
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.deps.json
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.json
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfo.cs
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\user\OneDrive\Pulpit\DietetykPro\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.genruntimeconfig.cache
+C:\Users\user\OneDrive\Pulpit\Programowanie\DietetykPro\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Pulpit\Programowanie\DietetykPro\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Pulpit\Programowanie\DietetykPro\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfo.cs
+C:\Users\user\OneDrive\Pulpit\Programowanie\DietetykPro\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Pulpit\Programowanie\DietetykPro\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\user\OneDrive\Pulpit\Programowanie\DietetykPro\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\user\OneDrive\Pulpit\Programowanie\DietetykPro\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.exe
+C:\Users\user\OneDrive\Pulpit\Programowanie\DietetykPro\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.deps.json
+C:\Users\user\OneDrive\Pulpit\Programowanie\DietetykPro\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.json
+C:\Users\user\OneDrive\Pulpit\Programowanie\DietetykPro\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Pulpit\Programowanie\DietetykPro\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\user\OneDrive\Pulpit\Programowanie\DietetykPro\DietetykPro\DietetykPro\bin\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\user\OneDrive\Pulpit\Programowanie\DietetykPro\DietetykPro\DietetykPro\obj\Debug\netcoreapp3.1\DietetykPro.genruntimeconfig.cache
+C:\Users\konra\Documents\Visual Studio 2019\1\obj\Debug\netcoreapp3.1\DietetykPro.csproj.AssemblyReference.cache
+C:\Users\konra\Documents\Visual Studio 2019\1\obj\Debug\netcoreapp3.1\DietetykPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konra\Documents\Visual Studio 2019\1\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfoInputs.cache
+C:\Users\konra\Documents\Visual Studio 2019\1\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfo.cs
+C:\Users\konra\Documents\Visual Studio 2019\1\obj\Debug\netcoreapp3.1\DietetykPro.csproj.CoreCompileInputs.cache
+C:\Users\konra\Documents\Visual Studio 2019\1\obj\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\konra\Documents\Visual Studio 2019\1\obj\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\Marcin\source\repos\1\obj\Debug\netcoreapp3.1\DietetykPro.csproj.AssemblyReference.cache
+C:\Users\Marcin\source\repos\1\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfoInputs.cache
+C:\Users\Marcin\source\repos\1\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfo.cs
+C:\Users\Marcin\source\repos\1\obj\Debug\netcoreapp3.1\DietetykPro.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\1\obj\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\Marcin\source\repos\1\obj\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\Marcin\source\repos\1\bin\Debug\netcoreapp3.1\DietetykPro.exe
+C:\Users\Marcin\source\repos\1\bin\Debug\netcoreapp3.1\DietetykPro.deps.json
+C:\Users\Marcin\source\repos\1\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.json
+C:\Users\Marcin\source\repos\1\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.dev.json
+C:\Users\Marcin\source\repos\1\bin\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\Marcin\source\repos\1\bin\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\Marcin\source\repos\1\obj\Debug\netcoreapp3.1\DietetykPro.genruntimeconfig.cache
+C:\Users\user\OneDrive\Pulpit\pro\bin\Debug\netcoreapp3.1\DietetykPro.exe
+C:\Users\user\OneDrive\Pulpit\pro\bin\Debug\netcoreapp3.1\DietetykPro.deps.json
+C:\Users\user\OneDrive\Pulpit\pro\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.json
+C:\Users\user\OneDrive\Pulpit\pro\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Pulpit\pro\bin\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\user\OneDrive\Pulpit\pro\bin\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\user\OneDrive\Pulpit\pro\obj\Debug\netcoreapp3.1\DietetykPro.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Pulpit\pro\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Pulpit\pro\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfo.cs
+C:\Users\user\OneDrive\Pulpit\pro\obj\Debug\netcoreapp3.1\DietetykPro.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Pulpit\pro\obj\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\user\OneDrive\Pulpit\pro\obj\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\user\OneDrive\Pulpit\pro\obj\Debug\netcoreapp3.1\DietetykPro.genruntimeconfig.cache
+C:\Users\Marcin\Desktop\pro\bin\Debug\netcoreapp3.1\DietetykPro.exe
+C:\Users\Marcin\Desktop\pro\bin\Debug\netcoreapp3.1\DietetykPro.deps.json
+C:\Users\Marcin\Desktop\pro\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.json
+C:\Users\Marcin\Desktop\pro\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.dev.json
+C:\Users\Marcin\Desktop\pro\bin\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\Marcin\Desktop\pro\bin\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\Marcin\Desktop\pro\obj\Debug\netcoreapp3.1\DietetykPro.csproj.AssemblyReference.cache
+C:\Users\Marcin\Desktop\pro\obj\Debug\netcoreapp3.1\DietetykPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcin\Desktop\pro\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfoInputs.cache
+C:\Users\Marcin\Desktop\pro\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfo.cs
+C:\Users\Marcin\Desktop\pro\obj\Debug\netcoreapp3.1\DietetykPro.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\pro\obj\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\Marcin\Desktop\pro\obj\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\Marcin\Desktop\pro\obj\Debug\netcoreapp3.1\DietetykPro.genruntimeconfig.cache
+C:\Users\konra\Desktop\pro\pro\bin\Debug\netcoreapp3.1\DietetykPro.exe
+C:\Users\konra\Desktop\pro\pro\bin\Debug\netcoreapp3.1\DietetykPro.deps.json
+C:\Users\konra\Desktop\pro\pro\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.json
+C:\Users\konra\Desktop\pro\pro\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.dev.json
+C:\Users\konra\Desktop\pro\pro\bin\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\konra\Desktop\pro\pro\bin\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\konra\Desktop\pro\pro\obj\Debug\netcoreapp3.1\DietetykPro.csproj.AssemblyReference.cache
+C:\Users\konra\Desktop\pro\pro\obj\Debug\netcoreapp3.1\DietetykPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konra\Desktop\pro\pro\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfoInputs.cache
+C:\Users\konra\Desktop\pro\pro\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfo.cs
+C:\Users\konra\Desktop\pro\pro\obj\Debug\netcoreapp3.1\DietetykPro.csproj.CoreCompileInputs.cache
+C:\Users\konra\Desktop\pro\pro\obj\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\konra\Desktop\pro\pro\obj\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\konra\Desktop\pro\pro\obj\Debug\netcoreapp3.1\DietetykPro.genruntimeconfig.cache
+C:\Users\konra\Desktop\Because noble gases do not cause reactions\bin\Debug\netcoreapp3.1\DietetykPro.exe
+C:\Users\konra\Desktop\Because noble gases do not cause reactions\bin\Debug\netcoreapp3.1\DietetykPro.deps.json
+C:\Users\konra\Desktop\Because noble gases do not cause reactions\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.json
+C:\Users\konra\Desktop\Because noble gases do not cause reactions\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.dev.json
+C:\Users\konra\Desktop\Because noble gases do not cause reactions\bin\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\konra\Desktop\Because noble gases do not cause reactions\bin\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\konra\Desktop\Because noble gases do not cause reactions\obj\Debug\netcoreapp3.1\DietetykPro.csproj.AssemblyReference.cache
+C:\Users\konra\Desktop\Because noble gases do not cause reactions\obj\Debug\netcoreapp3.1\DietetykPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konra\Desktop\Because noble gases do not cause reactions\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfoInputs.cache
+C:\Users\konra\Desktop\Because noble gases do not cause reactions\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfo.cs
+C:\Users\konra\Desktop\Because noble gases do not cause reactions\obj\Debug\netcoreapp3.1\DietetykPro.csproj.CoreCompileInputs.cache
+C:\Users\konra\Desktop\Because noble gases do not cause reactions\obj\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\konra\Desktop\Because noble gases do not cause reactions\obj\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\konra\Desktop\Because noble gases do not cause reactions\obj\Debug\netcoreapp3.1\DietetykPro.genruntimeconfig.cache
+C:\Users\konra\Desktop\Wiadomość ulegnie samozniszczeniu za\3\2\1\bin\Debug\netcoreapp3.1\DietetykPro.exe
+C:\Users\konra\Desktop\Wiadomość ulegnie samozniszczeniu za\3\2\1\bin\Debug\netcoreapp3.1\DietetykPro.deps.json
+C:\Users\konra\Desktop\Wiadomość ulegnie samozniszczeniu za\3\2\1\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.json
+C:\Users\konra\Desktop\Wiadomość ulegnie samozniszczeniu za\3\2\1\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.dev.json
+C:\Users\konra\Desktop\Wiadomość ulegnie samozniszczeniu za\3\2\1\bin\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\konra\Desktop\Wiadomość ulegnie samozniszczeniu za\3\2\1\bin\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\konra\Desktop\Wiadomość ulegnie samozniszczeniu za\3\2\1\obj\Debug\netcoreapp3.1\DietetykPro.csproj.AssemblyReference.cache
+C:\Users\konra\Desktop\Wiadomość ulegnie samozniszczeniu za\3\2\1\obj\Debug\netcoreapp3.1\DietetykPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konra\Desktop\Wiadomość ulegnie samozniszczeniu za\3\2\1\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfoInputs.cache
+C:\Users\konra\Desktop\Wiadomość ulegnie samozniszczeniu za\3\2\1\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfo.cs
+C:\Users\konra\Desktop\Wiadomość ulegnie samozniszczeniu za\3\2\1\obj\Debug\netcoreapp3.1\DietetykPro.csproj.CoreCompileInputs.cache
+C:\Users\konra\Desktop\Wiadomość ulegnie samozniszczeniu za\3\2\1\obj\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\konra\Desktop\Wiadomość ulegnie samozniszczeniu za\3\2\1\obj\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\konra\Desktop\Wiadomość ulegnie samozniszczeniu za\3\2\1\obj\Debug\netcoreapp3.1\DietetykPro.genruntimeconfig.cache
+C:\Users\user\OneDrive\Pulpit\Dietetyk_final\Wiadomość ulegnie samozniszczeniu za\3\2\1\bin\Debug\netcoreapp3.1\DietetykPro.exe
+C:\Users\user\OneDrive\Pulpit\Dietetyk_final\Wiadomość ulegnie samozniszczeniu za\3\2\1\bin\Debug\netcoreapp3.1\DietetykPro.deps.json
+C:\Users\user\OneDrive\Pulpit\Dietetyk_final\Wiadomość ulegnie samozniszczeniu za\3\2\1\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.json
+C:\Users\user\OneDrive\Pulpit\Dietetyk_final\Wiadomość ulegnie samozniszczeniu za\3\2\1\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Pulpit\Dietetyk_final\Wiadomość ulegnie samozniszczeniu za\3\2\1\bin\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\user\OneDrive\Pulpit\Dietetyk_final\Wiadomość ulegnie samozniszczeniu za\3\2\1\bin\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\user\OneDrive\Pulpit\Dietetyk_final\Wiadomość ulegnie samozniszczeniu za\3\2\1\obj\Debug\netcoreapp3.1\DietetykPro.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Pulpit\Dietetyk_final\Wiadomość ulegnie samozniszczeniu za\3\2\1\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Pulpit\Dietetyk_final\Wiadomość ulegnie samozniszczeniu za\3\2\1\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfo.cs
+C:\Users\user\OneDrive\Pulpit\Dietetyk_final\Wiadomość ulegnie samozniszczeniu za\3\2\1\obj\Debug\netcoreapp3.1\DietetykPro.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Pulpit\Dietetyk_final\Wiadomość ulegnie samozniszczeniu za\3\2\1\obj\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\user\OneDrive\Pulpit\Dietetyk_final\Wiadomość ulegnie samozniszczeniu za\3\2\1\obj\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\user\OneDrive\Pulpit\Dietetyk_final\Wiadomość ulegnie samozniszczeniu za\3\2\1\obj\Debug\netcoreapp3.1\DietetykPro.genruntimeconfig.cache
+C:\Users\user\OneDrive\Pulpit\Dietetyk_Pro_final\bin\Debug\netcoreapp3.1\DietetykPro.exe
+C:\Users\user\OneDrive\Pulpit\Dietetyk_Pro_final\bin\Debug\netcoreapp3.1\DietetykPro.deps.json
+C:\Users\user\OneDrive\Pulpit\Dietetyk_Pro_final\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.json
+C:\Users\user\OneDrive\Pulpit\Dietetyk_Pro_final\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Pulpit\Dietetyk_Pro_final\bin\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\user\OneDrive\Pulpit\Dietetyk_Pro_final\bin\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\user\OneDrive\Pulpit\Dietetyk_Pro_final\obj\Debug\netcoreapp3.1\DietetykPro.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Pulpit\Dietetyk_Pro_final\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Pulpit\Dietetyk_Pro_final\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfo.cs
+C:\Users\user\OneDrive\Pulpit\Dietetyk_Pro_final\obj\Debug\netcoreapp3.1\DietetykPro.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Pulpit\Dietetyk_Pro_final\obj\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\user\OneDrive\Pulpit\Dietetyk_Pro_final\obj\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\user\OneDrive\Pulpit\Dietetyk_Pro_final\obj\Debug\netcoreapp3.1\DietetykPro.genruntimeconfig.cache
+C:\Users\konra\Desktop\Dietetyk_Pro_final\bin\Debug\netcoreapp3.1\DietetykPro.exe
+C:\Users\konra\Desktop\Dietetyk_Pro_final\bin\Debug\netcoreapp3.1\DietetykPro.deps.json
+C:\Users\konra\Desktop\Dietetyk_Pro_final\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.json
+C:\Users\konra\Desktop\Dietetyk_Pro_final\bin\Debug\netcoreapp3.1\DietetykPro.runtimeconfig.dev.json
+C:\Users\konra\Desktop\Dietetyk_Pro_final\bin\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\konra\Desktop\Dietetyk_Pro_final\bin\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\konra\Desktop\Dietetyk_Pro_final\obj\Debug\netcoreapp3.1\DietetykPro.csproj.AssemblyReference.cache
+C:\Users\konra\Desktop\Dietetyk_Pro_final\obj\Debug\netcoreapp3.1\DietetykPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konra\Desktop\Dietetyk_Pro_final\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfoInputs.cache
+C:\Users\konra\Desktop\Dietetyk_Pro_final\obj\Debug\netcoreapp3.1\DietetykPro.AssemblyInfo.cs
+C:\Users\konra\Desktop\Dietetyk_Pro_final\obj\Debug\netcoreapp3.1\DietetykPro.csproj.CoreCompileInputs.cache
+C:\Users\konra\Desktop\Dietetyk_Pro_final\obj\Debug\netcoreapp3.1\DietetykPro.dll
+C:\Users\konra\Desktop\Dietetyk_Pro_final\obj\Debug\netcoreapp3.1\DietetykPro.pdb
+C:\Users\konra\Desktop\Dietetyk_Pro_final\obj\Debug\netcoreapp3.1\DietetykPro.genruntimeconfig.cache

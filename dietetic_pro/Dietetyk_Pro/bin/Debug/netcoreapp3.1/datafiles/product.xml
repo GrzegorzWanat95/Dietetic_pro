@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product xsi:type="Meat">
+    <Product_name>Pierś z kurczaka</Product_name>
+    <Caloricity>300</Caloricity>
+    <Carbohydrate>100</Carbohydrate>
+    <Protein>80</Protein>
+    <Fat>10</Fat>
+  </Product>
+  <Product xsi:type="Dairy">
+    <Product_name>Mleko</Product_name>
+    <Caloricity>50</Caloricity>
+    <Carbohydrate>10</Carbohydrate>
+    <Protein>10</Protein>
+    <Fat>10</Fat>
+  </Product>
+  <Product xsi:type="Vegetable">
+    <Product_name>Ziemniaki</Product_name>
+    <Caloricity>50</Caloricity>
+    <Carbohydrate>10</Carbohydrate>
+    <Protein>1</Protein>
+    <Fat>0</Fat>
+  </Product>
+  <Product xsi:type="Grain">
+    <Product_name>Chleb</Product_name>
+    <Caloricity>50</Caloricity>
+    <Carbohydrate>20</Carbohydrate>
+    <Protein>10</Protein>
+    <Fat>30</Fat>
+  </Product>
+  <Product xsi:type="Sweet">
+    <Product_name>Czekolada</Product_name>
+    <Caloricity>300</Caloricity>
+    <Carbohydrate>150</Carbohydrate>
+    <Protein>10</Protein>
+    <Fat>10</Fat>
+  </Product>
+  <Product xsi:type="Fruit">
+    <Product_name>Banan</Product_name>
+    <Caloricity>130</Caloricity>
+    <Carbohydrate>60</Carbohydrate>
+    <Protein>3</Protein>
+    <Fat>1</Fat>
+  </Product>
+  <Product xsi:type="Grain">
+    <Product_name>Wafle ryżowe</Product_name>
+    <Caloricity>390</Caloricity>
+    <Carbohydrate>81</Carbohydrate>
+    <Protein>8</Protein>
+    <Fat>3</Fat>
+  </Product>
+  <Product xsi:type="Dairy">
+    <Product_name>Serek grani</Product_name>
+    <Caloricity>100</Caloricity>
+    <Carbohydrate>3</Carbohydrate>
+    <Protein>12</Protein>
+    <Fat>4</Fat>
+  </Product>
+  <Product xsi:type="Grain">
+    <Product_name>Bułka tarta</Product_name>
+    <Caloricity>347</Caloricity>
+    <Carbohydrate>77</Carbohydrate>
+    <Protein>9</Protein>
+    <Fat>2</Fat>
+  </Product>
+  <Product xsi:type="Meat">
+    <Product_name>Schab</Product_name>
+    <Caloricity>242</Caloricity>
+    <Carbohydrate>0</Carbohydrate>
+    <Protein>27</Protein>
+    <Fat>14</Fat>
+  </Product>
+  <Product xsi:type="Vegetable">
+    <Product_name>Ogórki kiszone</Product_name>
+    <Caloricity>12</Caloricity>
+    <Carbohydrate>0</Carbohydrate>
+    <Protein>0</Protein>
+    <Fat>0</Fat>
+  </Product>
+  <Product xsi:type="Grain">
+    <Product_name>Bułka</Product_name>
+    <Caloricity>300</Caloricity>
+    <Carbohydrate>58</Carbohydrate>
+    <Protein>3</Protein>
+    <Fat>5</Fat>
+  </Product>
+  <Product xsi:type="Meat">
+    <Product_name>Kiełbasa</Product_name>
+    <Caloricity>299</Caloricity>
+    <Carbohydrate>2</Carbohydrate>
+    <Protein>25</Protein>
+    <Fat>8</Fat>
+  </Product>
+  <Product xsi:type="Vegetable">
+    <Product_name>Sałata</Product_name>
+    <Caloricity>14</Caloricity>
+    <Carbohydrate>2</Carbohydrate>
+    <Protein>1</Protein>
+    <Fat>1</Fat>
+  </Product>
+  <Product xsi:type="Vegetable">
+    <Product_name>Marchewka</Product_name>
+    <Caloricity>33</Caloricity>
+    <Carbohydrate>5</Carbohydrate>
+    <Protein>1</Protein>
+    <Fat>2</Fat>
+  </Product>
+  <Product xsi:type="Vegetable">
+    <Product_name>Pomidor</Product_name>
+    <Caloricity>19</Caloricity>
+    <Carbohydrate>1</Carbohydrate>
+    <Protein>1</Protein>
+    <Fat>1</Fat>
+  </Product>
+  <Product xsi:type="Vegetable">
+    <Product_name>Cebula</Product_name>
+    <Caloricity>33</Caloricity>
+    <Carbohydrate>1</Carbohydrate>
+    <Protein>1</Protein>
+    <Fat>1</Fat>
+  </Product>
+  <Product xsi:type="Grain">
+    <Product_name>Ryż</Product_name>
+    <Caloricity>119</Caloricity>
+    <Carbohydrate>26</Carbohydrate>
+    <Protein>2</Protein>
+    <Fat>1</Fat>
+  </Product>
+  <Product xsi:type="Dairy">
+    <Product_name>Serek topiony</Product_name>
+    <Caloricity>241</Caloricity>
+    <Carbohydrate>10</Carbohydrate>
+    <Protein>10</Protein>
+    <Fat>19</Fat>
+  </Product>
+  <Product xsi:type="Grain">
+    <Product_name>Ciecierzyca</Product_name>
+    <Caloricity>352</Caloricity>
+    <Carbohydrate>8</Carbohydrate>
+    <Protein>2</Protein>
+    <Fat>1</Fat>
+  </Product>
+  <Product xsi:type="Vegetable">
+    <Product_name>Seler</Product_name>
+    <Caloricity>30</Caloricity>
+    <Carbohydrate>3</Carbohydrate>
+    <Protein>1</Protein>
+    <Fat>2</Fat>
+  </Product>
+  <Product xsi:type="Vegetable">
+    <Product_name>Por</Product_name>
+    <Caloricity>29</Caloricity>
+    <Carbohydrate>2</Carbohydrate>
+    <Protein>1</Protein>
+    <Fat>3</Fat>
+  </Product>
+  <Product xsi:type="Vegetable">
+    <Product_name>Brukselka</Product_name>
+    <Caloricity>47</Caloricity>
+    <Carbohydrate>1</Carbohydrate>
+    <Protein>1</Protein>
+    <Fat>5</Fat>
+  </Product>
+  <Product xsi:type="Dairy">
+    <Product_name>Śmietana 12</Product_name>
+    <Caloricity>134</Caloricity>
+    <Carbohydrate>3</Carbohydrate>
+    <Protein>4</Protein>
+    <Fat>12</Fat>
+  </Product>
+  <Product xsi:type="Dairy">
+    <Product_name>Jogurt naturalny</Product_name>
+    <Caloricity>69</Caloricity>
+    <Carbohydrate>5</Carbohydrate>
+    <Protein>4</Protein>
+    <Fat>1</Fat>
+  </Product>
+  <Product xsi:type="Grain">
+    <Product_name>Płatki owsiane</Product_name>
+    <Caloricity>376</Caloricity>
+    <Carbohydrate>62</Carbohydrate>
+    <Protein>12</Protein>
+    <Fat>7</Fat>
+  </Product>
+  <Product xsi:type="Grain">
+    <Product_name>Płatki kukurydziane</Product_name>
+    <Caloricity>381</Caloricity>
+    <Carbohydrate>82</Carbohydrate>
+    <Protein>5</Protein>
+    <Fat>4</Fat>
+  </Product>
+  <Product xsi:type="Drink">
+    <Product_name>Sok pomarańczowy</Product_name>
+    <Caloricity>41</Caloricity>
+    <Carbohydrate>1</Carbohydrate>
+    <Protein>1</Protein>
+    <Fat>1</Fat>
+  </Product>
+  <Product xsi:type="Grain">
+    <Product_name>Makaron</Product_name>
+    <Caloricity>357</Caloricity>
+    <Carbohydrate>10</Carbohydrate>
+    <Protein>10</Protein>
+    <Fat>1</Fat>
+  </Product>
+  <Product xsi:type="Sweet">
+    <Product_name>Kakao</Product_name>
+    <Caloricity>459</Caloricity>
+    <Carbohydrate>44</Carbohydrate>
+    <Protein>5</Protein>
+    <Fat>9</Fat>
+  </Product>
+  <Product xsi:type="Vegetable">
+    <Product_name>Pieczarki</Product_name>
+    <Caloricity>21</Caloricity>
+    <Carbohydrate>10</Carbohydrate>
+    <Protein>1</Protein>
+    <Fat>1</Fat>
+  </Product>
+  <Product xsi:type="Vegetable">
+    <Product_name>Burak</Product_name>
+    <Caloricity>42</Caloricity>
+    <Carbohydrate>1</Carbohydrate>
+    <Protein>7</Protein>
+    <Fat>1</Fat>
+  </Product>
+  <Product xsi:type="Sweet">
+    <Product_name>Budyń</Product_name>
+    <Caloricity>369</Caloricity>
+    <Carbohydrate>1</Carbohydrate>
+    <Protein>1</Protein>
+    <Fat>1</Fat>
+  </Product>
+  <Product xsi:type="Grain">
+    <Product_name>Mąka</Product_name>
+    <Caloricity>342</Caloricity>
+    <Carbohydrate>68</Carbohydrate>
+    <Protein>10</Protein>
+    <Fat>0</Fat>
+  </Product>
+  <Product xsi:type="Grain">
+    <Product_name>Tahini</Product_name>
+    <Caloricity>659</Caloricity>
+    <Carbohydrate>2</Carbohydrate>
+    <Protein>26</Protein>
+    <Fat>58</Fat>
+  </Product>
+  <Product xsi:type="Fruit">
+    <Product_name>Jabłko</Product_name>
+    <Caloricity>60</Caloricity>
+    <Carbohydrate>30</Carbohydrate>
+    <Protein>0</Protein>
+    <Fat>1</Fat>
+  </Product>
+</ArrayOfProduct>

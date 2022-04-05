@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfPatient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Patient current_date="2022" Year="1985" PESEL="85081511870" Full_Name="Zbigniew Kowalski" Sex="2" Waga="80" Wzrost="174" Aktywność="1.25">
+    <ID_number>0</ID_number>
+  </Patient>
+  <Patient current_date="2022" Year="1997" PESEL="97081511258" Full_Name="Karolina Paluch" Sex="1" Waga="75" Wzrost="170" Aktywność="1.5">
+    <ID_number>1</ID_number>
+  </Patient>
+  <Patient current_date="2022" Year="1992" PESEL="92051511580" Full_Name="Janina Szczupła" Sex="1" Waga="70" Wzrost="160" Aktywność="1.75">
+    <ID_number>2</ID_number>
+  </Patient>
+  <Patient current_date="2022" Year="1996" PESEL="96256666890" Full_Name="Roman Duch" Sex="2" Waga="100" Wzrost="180" Aktywność="1.25">
+    <ID_number>3</ID_number>
+  </Patient>
+  <Patient current_date="2022" Year="1980" PESEL="80111215560" Full_Name="Stanisław Wąski" Sex="2" Waga="80" Wzrost="190" Aktywność="1.25">
+    <ID_number>4</ID_number>
+  </Patient>
+</ArrayOfPatient>
